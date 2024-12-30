@@ -1,1 +1,1 @@
-# Odin Rock paper scissor project
+# Odin Rock paper scissors project
